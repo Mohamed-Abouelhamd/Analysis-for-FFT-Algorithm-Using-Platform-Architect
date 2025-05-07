@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="i_Memory_Generic" kind="MODULE">
+<children name="@myself" kind="GENERATEDOBJ">
+<children name="CLK" kind="PORT_IN">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+</children>
+<children name="MEM" kind="EXPORT">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.17"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.18"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.19"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.31"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.32"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.33"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.34"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.24"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+</children>
+<children name="fec_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="m_memory" kind="MEMORY">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.35"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+</children>
+<children name="onPageSelectChanged" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="onPowerDownChanged" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="on_clock_period_changed_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="process_state_machine_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="trace_method_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+</children>
+<children href="./href_11.anlyconfig#/" name="m_adaptor" kind="MODULE"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.6"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.7"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.8"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.9"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.36"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.30"/>
+</com.synopsys.vp.base:NodeInfo>

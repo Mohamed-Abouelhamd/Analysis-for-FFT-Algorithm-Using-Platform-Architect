@@ -1,0 +1,24 @@
+================================================
+Start time Thu Feb 27 19:18:25 CET 2025
+Running scenario run.
+run :: Load Design time              : 0:00:01 h
+run :: Design re-configuration time  : 0:00:00 h
+run :: Simulation Export time        : 0:00:00 h
+run :: Simulation built
+run :: Simulation Build time         : 0:00:26 h
+run :: Enabling analysis
+run :: Simulation Run time           : 0:00:49 h
+run :: Duration of simulation phase  : 1.158 s
+run :: Peak physical memory usage    : 393224192 B
+run :: Peak virtual memory usage     : 1355841536 B
+run :: Result extraction time        : 0:00:00 h
+run :: Total simulation time         : 0:00:49 h
+run :: Scenario Execution time       : 0:01:35 h
+Scenario run finished.
+End time Thu Feb 27 19:20:00 CET 2025
+
+ Status : SUCCESS
+================================================
+
+
+Simulation sweeps completed for run, with status SUCCESS

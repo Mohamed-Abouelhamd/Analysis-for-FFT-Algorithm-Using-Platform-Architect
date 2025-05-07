@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="DEF_TASK_MGR" kind="MODULE">
+<children name="@myself" kind="GENERATEDOBJ">
+<children name="init_vpu_state" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="schedule" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="timeslice_method" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.6"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.7"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.8"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.9"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.26"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.27"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.25"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.26"/>
+</com.synopsys.vp.base:NodeInfo>

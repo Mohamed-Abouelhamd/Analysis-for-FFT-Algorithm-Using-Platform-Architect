@@ -1,0 +1,12 @@
+SOURCE=ConvergenSC/cwr_simulate.cpp
+COWAREHOME=/cad/adi/apps/synopsys/pa/2023.03-1/SLS/linux
+PPFLAGS = -I"${SNPS_VP_HOME}/IP_common/common_debug/include" -I"${SNPS_VP_IPDIR}/GFRBM/SystemC/include" -I"${CWR_SCML_TM_GTL_20}" -I"${CWR_SCML_TM_VPU_20}" -I"${CWR_GENERICIPLIB}/SystemC/include" -I"${CWR_SCML_TM_GTL_20}/SystemC/include" -I"${CWR_SCML_TM_VPU_20}/SystemC/include" -I"${CWR_SCML_TM_VPU_20}/common" -I"${CWR_TLM2_PL}/SystemC/include" -I"." -I"/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_GTL_20/../SCML_TM_VPU_20/SystemC/include" -I"/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_GTL_20/../SCML_TM_VPU_20/common"
+CXXFLAGS = -fPIC
+CXX=gcc-9.2-64
+OPT_LEVEL= +O1
+SCSIM_OPTS=
+CXXFLAGS= $(CWR_SYSTEMC_CXXFLAGS) -g2   
+
+
+SCCFLAGS=
+

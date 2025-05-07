@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="Workload" kind="MODULE">
+<children href="./href_31.anlyconfig#/" name="Workload" kind="MODULE"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.6"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.7"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.8"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.9"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.39"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.31"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.32"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.33"/>
+</com.synopsys.vp.base:NodeInfo>

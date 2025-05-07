@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config date="1740680369732" transient="false" version="3.0">
+<site enabled="true" policy="USER-EXCLUDE" updateable="true" url="platform:/base/">
+<feature id="com.synopsys.vp.base.feature" url="features/com.synopsys.vp.base.feature_2023.3.0.v20230628-1100/" version="2023.3.0.v20230628-1100">
+</feature>
+<feature id="com.synopsys.vp.base.scripting.ui.feature" url="features/com.synopsys.vp.base.scripting.ui.feature_2023.3.0.v20230628-1100/" version="2023.3.0.v20230628-1100">
+</feature>
+<feature id="org.eclipse.equinox.p2.core.feature" url="features/org.eclipse.equinox.p2.core.feature_1.6.1300.v20220223-1131/" version="1.6.1300.v20220223-1131">
+</feature>
+<feature id="com.synopsys.vpexplorer.app.feature" url="features/com.synopsys.vpexplorer.app.feature_2023.3.0.v20230628-1100/" version="2023.3.0.v20230628-1100">
+</feature>
+<feature id="org.eclipse.e4.rcp" url="features/org.eclipse.e4.rcp_4.23.0.v20220308-0630/" version="4.23.0.v20220308-0630">
+</feature>
+<feature id="com.synopsys.vp.base.scripting.feature" url="features/com.synopsys.vp.base.scripting.feature_2023.3.0.v20230628-1100/" version="2023.3.0.v20230628-1100">
+</feature>
+<feature id="com.synopsys.vpexplorer.core.feature" url="features/com.synopsys.vpexplorer.core.feature_2023.3.0.v20230628-1100/" version="2023.3.0.v20230628-1100">
+</feature>
+</site>
+</config>

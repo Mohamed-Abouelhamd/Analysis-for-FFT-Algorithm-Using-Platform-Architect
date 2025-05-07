@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="HW" kind="MODULE">
+<children href="./href_5.anlyconfig#/" name="Butterfly" kind="MODULE"/>
+<children href="./href_16.anlyconfig#/" name="CPU" kind="MODULE"/>
+<children href="./href_19.anlyconfig#/" name="DMA1" kind="MODULE"/>
+<children href="./href_20.anlyconfig#/" name="DMA2" kind="MODULE"/>
+<children href="./href_21.anlyconfig#/" name="i_Bus" kind="MODULE"/>
+<children href="./href_23.anlyconfig#/" name="i_ClockGenerator" kind="MODULE"/>
+<children href="./href_24.anlyconfig#/" name="i_Memory_Generic" kind="MODULE"/>
+<children href="./href_25.anlyconfig#/" name="i_ResetGenerator" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_Butterfly_DRVR_p_socket" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_Butterfly_PE_p_data" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_Butterfly_PE_p_insn" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_CPU_DRVR_p_socket" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_CPU_PE_p_data" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_CPU_PE_p_insn" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_DMA1_DRVR_p_socket" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_DMA1_PE_p_data" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_DMA1_PE_p_insn" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_DMA2_DRVR_p_socket" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_DMA2_PE_p_data" kind="MODULE"/>
+<children href="./href_26.anlyconfig#/" name="stub_DMA2_PE_p_insn" kind="MODULE"/>
+<children href="./href_27.anlyconfig#/" name="stub_i_Memory_Generic_MEM" kind="MODULE"/>
+<children href="./href_28.anlyconfig#/" name="stub_i_Memory_Generic_p_PSELECT" kind="MODULE"/>
+<children href="./href_29.anlyconfig#/" name="stub_i_Memory_Generic_p_PowerDown" kind="MODULE"/>
+<children href="./href_29.anlyconfig#/" name="stub_i_Memory_Generic_p_Retention" kind="MODULE"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.6"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.7"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.8"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.9"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.22"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.23"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.24"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.25"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.26"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.27"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.28"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.29"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.30"/>
+</com.synopsys.vp.base:NodeInfo>

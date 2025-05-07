@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="gfrbm" kind="MODULE">
+<children name="@myself" kind="GENERATEDOBJ">
+<children name="CLK" kind="PORT_IN">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+</children>
+<children name="IntrptMemory" kind="MEMORY">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+</children>
+<children name="fec_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="fec_1" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="initMethod" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="on_clock_period_changed_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="on_clock_period_changed_1" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="process_state_machine_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="process_state_machine_1" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="signale_ready_for_clock_change_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children href="./href_8.anlyconfig#/" name="TXNManager" kind="MODULE"/>
+<children href="./href_9.anlyconfig#/" name="adaptor" kind="MODULE"/>
+<children href="./href_10.anlyconfig#/" name="clkMgr_0" kind="MODULE"/>
+<children href="./href_11.anlyconfig#/" name="control_port_adapter" kind="MODULE"/>
+<children href="./href_12.anlyconfig#/" name="worker_0" kind="MODULE"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.6"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.7"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.8"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.9"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.22"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.23"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+</com.synopsys.vp.base:NodeInfo>

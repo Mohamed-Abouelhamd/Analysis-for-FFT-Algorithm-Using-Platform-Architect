@@ -1,0 +1,7 @@
+COWAREHOME=/cad/adi/apps/synopsys/pa/2023.03-1/SLS/linux
+LDFLAGS = -L"/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_VPU_20/SystemC/lib/linux/gcc-9.2-64" "/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_VPU_20/SystemC/lib/linux/gcc-9.2-64/libscml_tm_vpu.a" "/cad/adi/apps/synopsys/pa/2023.03-1/SLS/linux/../../IP/GFRBM/SystemC/lib/linux.gcc-9.2-64/libstatic_gfrbm_tlm2.a" -lz -Wl,-E,-rpath,/cad/adi/apps/synopsys/pa/2023.03-1/SLS/linux/IP_common/common_debug/lib/linux.gcc-9.2-64 -L"$(COWAREHOME)/IP_common/common_debug/lib/linux.gcc-9.2-64" -lipdebug -L"/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_GTL_20/SystemC/lib/linux/gcc-9.2-64" "/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_GTL_20/SystemC/lib/linux/gcc-9.2-64/libscml_tm_gtl.a" -L"/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_GTL_20/../SCML_TM_VPU_20/SystemC/lib/linux/gcc-9.2-64" "/cad/adi/apps/synopsys/pa/2023.03-1/IP/SCML_TM_GTL_20/../SCML_TM_VPU_20/SystemC/lib/linux/gcc-9.2-64/libscml_tm_vpu.a"
+PUREFLAGS = 
+CXX=gcc-9.2-64
+
+
+

@@ -1,0 +1,25 @@
+(19:19:39) Starting simulation: 
+/bin/bash -c exec "/home/mmoussa/Projects/FFT/results/run/export/Debug/sim" -parameter_file=param.ini --cwr_monitors /home/mmoussa/Projects/FFT/results/run/export/vpconfigs/Default/Default.monitors --cwr_properties_xml "/home/mmoussa/Projects/FFT/results/run/export/Properties.xml"
+
+                    Copyright 1996-2022 Synopsys, Inc.
+         This Synopsys product and all associated documentation are
+  proprietary to Synopsys, Inc. and may only be used pursuant to the terms
+     and conditions of a written license agreement with Synopsys, Inc.
+     All other use, reproduction, modification, or distribution of the
+  Synopsys product or the associated documentation is strictly prohibited.
+  
+  SystemC 2.3.3 --- Jun 28 2023 20:25:15
+  Copyright (c) 1996-2018 by all Contributors,
+  ALL RIGHTS RESERVED
+
+SystemC: simulation stopped by user.
+Simulation time statistics:
+  Final SystemC time:             1560 ns
+  Duration of construction phase: 2.145 s wall clock time
+  Duration of simulation phase:   1.158 s wall clock time
+  Duration of destruction phase:  0.031 s wall clock time
+  Peak physical memory usage:     393224192 B
+  Peak virtual memory usage:      1355841536 B
+Warning: some scml2 stream(s) not destroyed before infrastructure shutdown. Set environment variable SNPS_SLS_VP_SCML2_LOGGING_VERBOSE_WARNINGS for more details.
+(19:19:56) Simulation terminated with exit code 0
+--------------------------------------------------------------------

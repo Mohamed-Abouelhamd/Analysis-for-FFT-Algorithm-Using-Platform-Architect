@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="SCProfiler" kind="MODULE">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.0"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.1"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.2"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.3"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.4"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.0"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.1"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.2"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.3"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.4"/>
+</com.synopsys.vp.base:NodeInfo>

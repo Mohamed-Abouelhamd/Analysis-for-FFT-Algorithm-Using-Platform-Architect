@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="ASCII"?>
+<parameters:ParametersRoot xmi:version="2.0" xmlns:parameters="http://parameters/1.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <instances href="parameters/HARDWARE.unevald.parameters#//@instances.0" name="HARDWARE">
+      <sets kind="EXTRA_PROPERTIES">
+         <ParameterElements editable="UNTIL_SIMULATION_START" name="property_xml_file" type="STRING" value="Properties.xml" visibility="ADVANCED" xsi:type="parameters:Parameter"/>
+         <ParameterElements editable="UNTIL_SIMULATION_START" name="system_hierarchy_xml_file" type="STRING" value="SystemHierarchy.xml" visibility="ADVANCED" xsi:type="parameters:Parameter"/>
+         <ParameterElements name="Global" xsi:type="parameters:Group">
+            <ParameterElements editable="UNTIL_SIMULATION_START" name="proj_data_path" type="STRING" value="" visibility="HIDDEN" xsi:type="parameters:Parameter"/>
+            <ParameterElements editable="UNTIL_SIMULATION_START" name="watchdog_timeout_ns" type="INTEGER" value="0" visibility="VISIBLE" xsi:type="parameters:Parameter"/>
+         </ParameterElements>
+         <ParameterElements name="Creation_Layout" xsi:type="parameters:Group">
+            <ParameterElements editable="UNTIL_SIMULATION_START" name="curr_domain" type="STRING" value="Simulation" visibility="VISIBLE" xsi:type="parameters:Parameter"/>
+         </ParameterElements>
+         <ParameterElements editable="UNTIL_SIMULATION_START" name="curr_hier" type="STRING" value="/HARDWARE/HW/HW" visibility="VISIBLE" xsi:type="parameters:Parameter"/>
+         <ParameterElements name="pct" xsi:type="parameters:Group">
+            <ParameterElements name="runtime" xsi:type="parameters:Group">
+               <ParameterElements editable="UNTIL_SIMULATION_START" name="simulation_mode" type="STRING" value="MODE_FULL_SIMULATION" visibility="ADVANCED" xsi:type="parameters:Parameter"/>
+               <ParameterElements editable="UNTIL_SIMULATION_START" name="dynamic_load_info" type="STRING" value="ClockGenerator,./simulation/FastBuild/GenericIPlib,/cad/adi/apps/synopsys/pa/2023.03-1/IP/GenericIPlib/SystemC/lib/linux.gcc-9.2-64;Memory_generic,./simulation/FastBuild/GenericIPlib,/cad/adi/apps/synopsys/pa/2023.03-1/IP/GenericIPlib/SystemC/lib/linux.gcc-9.2-64;Sig_drive,./simulation/FastBuild/GenericIPlib,/cad/adi/apps/synopsys/pa/2023.03-1/IP/GenericIPlib/SystemC/lib/linux.gcc-9.2-64;rst,./simulation/FastBuild/GenericIPlib,/cad/adi/apps/synopsys/pa/2023.03-1/IP/GenericIPlib/SystemC/lib/linux.gcc-9.2-64;tlm2_pl,./simulation/FastBuild/TLM2_PL,/cad/adi/apps/synopsys/pa/2023.03-1/SLS/linux/pc/TLM2_PL/SystemC/lib/linux.gcc-9.2-64;" visibility="ADVANCED" xsi:type="parameters:Parameter"/>
+            </ParameterElements>
+         </ParameterElements>
+      </sets>
+   </instances>
+</parameters:ParametersRoot>

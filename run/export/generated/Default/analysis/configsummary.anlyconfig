@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.synopsys.vp.base:SharedConfigSummaryData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg">
+<configSummary kind="MiscTrace" factoryName="Top-Down Profiler" category="Simulation Profiling"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Simulation Hotspots" category="Simulation Profiling"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Profiling Events" category="Simulation Profiling"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Processor Model Event" category="Simulation Profiling"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Memory Consumption" category="Simulation Profiling"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Register Trace" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="FastTrack Info" category="FastTrack Logging"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="FastTrack Warnings" category="FastTrack Logging"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="FastTrack Errors" category="FastTrack Logging"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="FastTrack Model Internal" category="FastTrack Logging"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Power Analysis" category="Power Analysis"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Process Trace" category="General"/>
+<configSummary kind="MiscTrace" factoryName="Value Trace (Clock)" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Socket Monitor" category="General"/>
+<configSummary kind="MiscTrace" factoryName="Functional Coverage Port Monitor" category="General"/>
+<configSummary kind="MiscTrace" factoryName="TLM Port Trace" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Transaction Field Statistics" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Transaction Contention Statistics" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Transaction Count" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Transaction Latency Statistics" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Protocol Checker" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Dataflow Analysis" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Frame" category="Deadline Traffic Analysis"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Traffic" category="Deadline Traffic Analysis"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="MCO Resource" category="MCO"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="MCO Residency" category="MCO"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="MCO Resource Load" category="MCO"  configurable="true"/>
+<configSummary kind="BusAnalysis" factoryName="BusDebug" category="Bus Analysis"/>
+<configSummary kind="BusAnalysis" factoryName="BusAnalysis" category="Bus Analysis"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="ClockParameter" category="General"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="Activity" category="Activity Analysis"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="MCO Task" category="MCO"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="MCO Channel Analysis" category="MCO"  configurable="true"/>
+<configSummary kind="MiscTrace" factoryName="QTLAnalysis" category="QTL Analysis"  configurable="true"/>
+</com.synopsys.vp.base:SharedConfigSummaryData>

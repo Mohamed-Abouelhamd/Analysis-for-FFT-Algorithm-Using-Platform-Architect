@@ -1,0 +1,6 @@
+COWAREHOME=/cad/adi/apps/synopsys/pa/2023.03-1/SLS/linux
+ARFLAGS = 
+CXX=gcc-9.2-64
+
+
+

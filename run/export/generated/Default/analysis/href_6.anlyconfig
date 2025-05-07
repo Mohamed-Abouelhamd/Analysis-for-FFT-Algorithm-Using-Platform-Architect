@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="DRVR" kind="MODULE">
+<children name="@myself" kind="GENERATEDOBJ">
+<children name="fec_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="fec_1" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="fec_2" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="handle_serial_data_trf_ack_ev" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="on_clock_period_changed_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="on_clock_period_changed_1" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="on_clock_period_changed_2" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="p_clk" kind="PORT_IN">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+</children>
+<children name="p_socket" kind="PORT">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.17"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.18"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.19"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.20"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.21"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.22"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.23"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.24"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+</children>
+<children name="process_state_machine_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="process_state_machine_1" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="process_state_machine_2" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="release_resource" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="set_resource_ipt_idle" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="signale_ready_for_clock_change_0" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="signale_ready_for_clock_change_1" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children name="trans_end_peq_cbk" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+</children>
+<children href="./href_7.anlyconfig#/" name="gfrbm" kind="MODULE"/>
+<children href="./href_9.anlyconfig#/" name="mem_adaptor" kind="MODULE"/>
+<children href="./href_13.anlyconfig#/" name="p_socket_0" kind="MODULE"/>
+<children href="./href_13.anlyconfig#/" name="p_trace_socket_0_0" kind="MODULE"/>
+<children href="./href_14.anlyconfig#/" name="slave_adaptor" kind="MODULE"/>
+<children href="./href_9.anlyconfig#/" name="trace_adaptor" kind="MODULE"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.6"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.7"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.8"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.9"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.25"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.22"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.23"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.24"/>
+</com.synopsys.vp.base:NodeInfo>

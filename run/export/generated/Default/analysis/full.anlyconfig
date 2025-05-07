@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.synopsys.vp.base:ConfigModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg">
+<designRoot name="Design Hierarchy" kind="MODULE">
+<children href="./href_0.anlyconfig#/" name="SCProfiler" kind="MODULE"/>
+<children href="./href_1.anlyconfig#/" name="SNPS_PAM" kind="MODULE"/>
+<children href="./href_2.anlyconfig#/" name="HARDWARE" kind="MODULE"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.0"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.1"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.2"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.3"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.4"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.5"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.10"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.12"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.13"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.14"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.15"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.16"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.17"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.18"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.19"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.20"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.21"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.22"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.23"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.24"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.25"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.26"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.27"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.28"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.29"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.30"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.31"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.32"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.33"/>
+</designRoot>
+<sharedConfigSummaryData href="./configsummary.anlyconfig#/"/>
+<sharedConfigInfoData href="./configinfo.anlyconfig#/"/>
+</com.synopsys.vp.base:ConfigModel>

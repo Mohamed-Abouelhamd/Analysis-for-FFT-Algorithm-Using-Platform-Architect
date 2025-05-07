@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="ASCII"?>
+<com.synopsys.vp.base:NodeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.synopsys.vp.base="com.synopsys.vp.base.anlycfg" name="Workload" kind="MODULE">
+<children href="./href_32.anlyconfig#/" name="ADD_MUL" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_1" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_2" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_3" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_4" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_5" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_6" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_7" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_8" kind="MODULE"/>
+<children href="./href_35.anlyconfig#/" name="C_9" kind="MODULE"/>
+<children href="./href_36.anlyconfig#/" name="Cal_Str" kind="MODULE"/>
+<children href="./href_32.anlyconfig#/" name="DMA1_Rd" kind="MODULE"/>
+<children href="./href_32.anlyconfig#/" name="DMA1_Wr" kind="MODULE"/>
+<children href="./href_32.anlyconfig#/" name="DMA2_Rd" kind="MODULE"/>
+<children href="./href_37.anlyconfig#/" name="DMA2_Wr" kind="MODULE"/>
+<children href="./href_38.anlyconfig#/" name="Deadline_Mgr" kind="MODULE"/>
+<children href="./href_39.anlyconfig#/" name="FFT_VLD" kind="MODULE"/>
+<children href="./href_40.anlyconfig#/" name="Initialize" kind="MODULE"/>
+<children href="./href_41.anlyconfig#/" name="Trigger" kind="MODULE"/>
+<children name="@myself" kind="GENERATEDOBJ">
+<children name="task_thread_wrapper" kind="PROCESS">
+<configInfo href="./configinfo.anlyconfig#//@configInfo.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+</children>
+<children href="./href_42.anlyconfig#/" name="tgg_cfg" kind="MODULE"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.6"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.7"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.8"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.9"/>
+<configInfo href="./configinfo.anlyconfig#//@configInfo.37"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.6"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.7"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.8"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.9"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.11"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.31"/>
+<configSummary href="./configsummary.anlyconfig#//@configSummary.32"/>
+</com.synopsys.vp.base:NodeInfo>
