@@ -1,2 +1,2 @@
-# Analysis for FFT Algorithm Using Platform Architect
+# Simulation for FFT Algorithm Using Platform Architect
 
